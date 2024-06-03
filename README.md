@@ -12,6 +12,9 @@ Design: Photoshop, AE, Illustrator, Premiere
 
 - <b>Website developed with React</b>
   - [Afonso Pereira Portfolio Webpage](https://github.com/osnofaz/website-portfolio)
+ 
+- <b>Google Chrome Extension</b>
+  - [Roshtein's Google Chrome Extension](https://github.com/osnofaz/rosh-extension)
 
 <h2> 📫 How to reach me:</h2>
 
